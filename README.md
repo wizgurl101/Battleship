@@ -1,1 +1,1 @@
-# CPRG 311 Battleship Game
+# Battleship Game

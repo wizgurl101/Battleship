@@ -1,1 +1,5 @@
-# CPRG 311 Battleship Game
+# Battleship Game
+
+## Description
+
+## About the project

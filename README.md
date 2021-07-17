@@ -9,7 +9,8 @@ This was developed in Java and use the Java Swing library to build GUI.
 
 ## Application Features
 - Chatroom to allow text communication between 2 players during the game
-- User able to move ships around the board
+- User able to move ships around the board by mouse click
+- User can play a game of battleship
 
 ## What have I learnt from this project
 - Implementing the observer pattern
@@ -20,6 +21,8 @@ This was developed in Java and use the Java Swing library to build GUI.
 ## Future improvements
 - Application cannot enforce player turns so this basically reduce the game to a battle of who can click fast enough on their oppenent board
 - GUI can be refactor to make it more re-usable
+- Refactor code on re-painting the ships on the board
+- make the GUI responsive
 
 ## Screenshots
 <p align="center">

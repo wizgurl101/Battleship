@@ -10,10 +10,7 @@ This was developed in Java and use the Java Swing library to build GUI.
 ## Application Features
 - Chatroom to allow text communication between 2 players during the game
 - User able to move ships around the board by mouse click
-- User can play a game of battleship
-- Application choose by random who goes first
-- user can set their username
-- Score is track and updated in real-time
+- User can play a game of battleship with another user
 - Server log application activity
 
 ## What have I learnt from this project

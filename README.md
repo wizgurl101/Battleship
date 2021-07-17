@@ -25,7 +25,7 @@ Download both jar files and make sure they are in the same directory
 ## What have I learnt from this project
 - Implementing the observer pattern
 - basic networking concept using Java net library such as socket
-- Applying OOP concepts such as inhertiance
+- How to design and implement classes according to OOP paradigm
 - Using Java Swing library to make GUI
 
 ## Possible Future improvements

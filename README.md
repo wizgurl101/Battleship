@@ -20,7 +20,7 @@ This was developed in Java and use the Java Swing library to build GUI.
 - Using Java Swing library to make GUI and using 2D arrays :D
 
 ## Possible Future improvements
-- Application cannot enforce player turns so this basically reduce the game to a battle of who can click fast enough on their oppenent board
+- Application does not enforce player turns so this basically reduce the game to a battle of who can click fast enough on their oppenent board
 - GUI can be refactor to make it more re-usable
 - Refactor code on re-painting the ships on the board
 - Make the GUI responsive

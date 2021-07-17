@@ -4,7 +4,7 @@
 </p>
 
 ## About the project
-This is a desktop application that let user play a game of battleship with another user on the same network.  In addition to providing a chatroom feature.
+This is a desktop application that let user play a game of battleship with another user on the same network. In addition to providing a chatroom feature.
 This was developed in Java and use Eclipse as the IDE.
 
 ## Application Features
@@ -20,7 +20,7 @@ This was developed in Java and use Eclipse as the IDE.
 - Using Java Swing library to make GUI and using 2D arrays :D
 
 ## Possible Future improvements
-- Application does not enforce player turns so this basically reduce the game to a battle of who can click fastest enough on all the tiles on their target board
+- Application does not enforce player turns so this basically reduce the game to a battle of who can click the fastest on all the tiles on their target board
 - GUI can be refactor to make it more re-usable
 - Refactor code on re-painting the ships on the board
 - Make the GUI responsive

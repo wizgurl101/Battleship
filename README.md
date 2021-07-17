@@ -18,11 +18,12 @@ This was developed in Java and use the Java Swing library to build GUI.
 - Applying OOP concepts such as inhertiance
 - Using Java Swing library to make GUI
 
-## Future improvements
+## Possible Future improvements
 - Application cannot enforce player turns so this basically reduce the game to a battle of who can click fast enough on their oppenent board
 - GUI can be refactor to make it more re-usable
 - Refactor code on re-painting the ships on the board
 - make the GUI responsive
+- let user change the ship orientation
 
 ## Screenshots
 <p align="center">

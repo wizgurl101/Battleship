@@ -16,7 +16,7 @@ This was developed in Java and use the Java Swing library to build GUI.
 - Score is track and updated in real-time
 - Server log application activity
 
-# Instructions if you want to play ;D
+## Instructions if you want to play ;D
 Download both jar files and make sure they are in the same directory
 - Click on server driver jar file to start the server
 - then click the game by clicking the client driver jar file

@@ -16,6 +16,12 @@ This was developed in Java and use the Java Swing library to build GUI.
 - Score is track and updated in real-time
 - Server log application activity
 
+# Instructions if you want to play ;D
+Download both jar files and make sure they are in the same directory
+- Click on server jar file to start the server
+- then click the game by clicking the client jar file
+- you need to click the client jar again to open a second window
+
 ## What have I learnt from this project
 - Implementing the observer pattern
 - basic networking concept using Java net library such as socket

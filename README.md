@@ -4,7 +4,7 @@
 </p>
 
 ## About the project
-This is a desktop application that let user play a game of battleship with another user on the same network.
+This is a desktop application that let user play a game of battleship with another user on the same network.  In addition to providing a chatroom feature.
 This was developed in Java and use the Java Swing library to build GUI.
 
 ## Application Features

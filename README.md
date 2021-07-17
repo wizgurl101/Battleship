@@ -17,7 +17,7 @@ This was developed in Java and use the Java Swing library to build GUI.
 - Implementing the observer pattern
 - basic networking concept using Java net library such as socket
 - How to design and implement classes according to OOP paradigm
-- Using Java Swing library to make GUI
+- Using Java Swing library to make GUI and using 2D arrays :D
 
 ## Possible Future improvements
 - Application cannot enforce player turns so this basically reduce the game to a battle of who can click fast enough on their oppenent board

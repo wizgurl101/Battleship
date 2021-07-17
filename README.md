@@ -18,8 +18,8 @@ This was developed in Java and use the Java Swing library to build GUI.
 
 # Instructions if you want to play ;D
 Download both jar files and make sure they are in the same directory
-- Click on server jar file to start the server
-- then click the game by clicking the client jar file
+- Click on server driver jar file to start the server
+- then click the game by clicking the client driver jar file
 - you need to click the client jar again to open a second window
 
 ## What have I learnt from this project

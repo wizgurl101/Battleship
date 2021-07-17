@@ -15,7 +15,7 @@ This was developed in Java and use the Java Swing library to build GUI.
 
 ## What have I learnt from this project
 - Implementing the observer pattern
-- basic networking concept using Java net library such as socket
+- Using Java net library such as socket, to establish connection over a network
 - How to design and implement classes according to OOP paradigm
 - Using Java Swing library to make GUI and using 2D arrays :D
 
